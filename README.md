@@ -1,5 +1,7 @@
 # terabox-tui
 
+![TeraBox TUI screenshot](screenshot.jpg)
+
 Terminal file manager for TeraBox, built on the `dm.terabox.com` web API.
 
 - Browse remote folders (name / size / modified, click headers to sort)
